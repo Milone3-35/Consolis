@@ -1,0 +1,18 @@
+{
+    "name": "milo/consolis",
+    "description": "A text based game engine",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Milo\\Consolis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Milone3-35",
+            "email": "milo.koch123@gmail.com"
+        }
+    ],
+    "require": {}
+}
